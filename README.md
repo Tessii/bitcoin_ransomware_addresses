@@ -1,0 +1,1 @@
+# bitcoin_ransomware_addresses
